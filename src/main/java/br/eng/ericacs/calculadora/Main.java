@@ -51,3 +51,5 @@ public class Main {
         scanner.close();
     }
 }
+
+//mvn compile exec:java -Dexec.mainClass="br.eng.ericacs.calculadora.Main"
