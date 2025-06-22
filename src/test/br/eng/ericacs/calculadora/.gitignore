@@ -1,1 +1,18 @@
-*.class
+# Diretórios de build
+target/
+.classpath
+.project
+.settings/
+
+# Arquivos de configuração IDE
+*.iml
+.idea/
+
+# Arquivos de log
+*.log
+logs/
+
+# Arquivos de usuário e temporários
+.DS_Store
+Thumbs.db
+*.bak
